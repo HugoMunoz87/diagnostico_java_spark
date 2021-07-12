@@ -7,7 +7,7 @@ public final class Common {
     public static final String INFER_SCHEMA = "inferSchema";
     public static final String INPUT_PATH = "input.file";
     public static final String OUTPUT_PATH = "output.directory";
-    public static final String APPLICATION_PROPERTIES_PATH = "src/conf/applicationProperties.properties";
+    public static final String APPLICATION_PROPERTIES_PATH = "src/applicationProperties.properties";
 
 
 }
